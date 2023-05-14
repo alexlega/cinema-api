@@ -43,3 +43,14 @@ Features
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movie sessions
+
+
+### Some screenshots
+
+Project's endpoints:
+
+![img.png](img.png)
+
+Actor's GET/POST methods:
+
+![img_1.png](img_1.png)
